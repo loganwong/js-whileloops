@@ -68,7 +68,11 @@ while (tvShows[i]) {
 
 */
 
-
+var i = 0;
+while (i<9) {
+	i ++
+	console.log(i + " x " + 3 + " = " + (i * 3));
+}
 
 
 
